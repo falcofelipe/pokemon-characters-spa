@@ -5,4 +5,4 @@ This application was created as part of the interview process for the position o
 
 ## Contact
 
-If you have any doubts or ideas regarding this application, feel free to contact me at [falco.felipe27@gmail.com] or send me a message through my personal website [falcofelipe.com]
+If you have any doubts or ideas regarding this application, feel free to contact me at [falco.felipe27@gmail.com] or send me a message through my personal website [https://falcofelipe.com]
